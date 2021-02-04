@@ -12,5 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kaushikmoudgalya@gmail.com
 - 😄 Pronouns: he/his
 
-<img align="center" src=https://github-readme-stats.vercel.app/api?username=Etrama&show_icons=true&theme=radical) />
+<a href="https://github.com/Etrama/Etrama">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Etrama&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Etrama's GitHub Stats" />
+</a>
 
