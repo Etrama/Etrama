@@ -16,3 +16,12 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Etrama&show_icons=true&line_height=27&count_private=true&theme=react" alt="Etrama's GitHub Stats" />
 </a>
 
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+👔 [linkedin][linkedin]
+
+[website]: https://etrama.github.io/
+[twitter]: https://twitter.com/Banana_Leopard
+[linkedin]: https://www.linkedin.com/in/kaushik-gowrishankar-moudgalya/
+
