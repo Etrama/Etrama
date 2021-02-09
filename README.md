@@ -1,4 +1,5 @@
 Hello! ＼（〇_ｏ）／
+I'm Etrama.
 
 <!--
 **Etrama/Etrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on Data Security and Encryption.
+- 🔭 I’m currently working on Machine Learning, ERP Application Security, Data Security and Governance.
 - 🌱 I’m currently learning Vim and Machine Learning.
 - 🤔 I’m looking for help with Machine Learning paper implementations.
 - 💬 Ask me about Python, Machine Learning, my projects.
