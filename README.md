@@ -11,9 +11,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, Machine Learning, my projects.
 - 😄 Pronouns: he/him
 
-<br>
-<img src="https://visitor-badge.glitch.me/badge?page_id=Etrama.visitor-badge" alt="visitor badge"/>
-<br>
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/Etrama/count.svg" alt="" /></td>
+  </tr>
+</table>
 
 <a href="https://github.com/Etrama/Etrama">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Etrama&show_icons=true&line_height=27&count_private=true&theme=react" alt="Etrama's GitHub Stats" />
