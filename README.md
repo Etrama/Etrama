@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Machine Learning paper implementations.
 - 💬 Ask me about Python, Machine Learning, my projects.
 - 📫 How to reach me: kaushikmoudgalya@gmail.com
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 
 <br>
 
