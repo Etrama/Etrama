@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 
 <br>
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/Etrama/count.svg" alt="" /></td>
-    <td><img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/></td>
-  </tr>
-</table>
+<img src="https://visitor-badge.glitch.me/badge?page_id=Etrama-visitor-badge" alt="visitor badge"/>
 <br>
 
 <a href="https://github.com/Etrama/Etrama">
