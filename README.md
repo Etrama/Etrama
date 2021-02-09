@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Etrama/Etrama/master/name.svg" alt="Etrama" />
-</h1>
+Hello! ＼（〇_ｏ）／
 
 <!--
 **Etrama/Etrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
