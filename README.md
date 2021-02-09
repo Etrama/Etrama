@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 
 <br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Etrama.visitor-badge)
+<img src="https://visitor-badge.glitch.me/badge?page_id=Etrama.visitor-badge" alt="visitor badge"/>
 <br>
 
 <a href="https://github.com/Etrama/Etrama">
