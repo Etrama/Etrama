@@ -14,8 +14,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, Machine Learning, my projects.
 - 😄 Pronouns: he/him
 
-<br>
+<!--<br>
 <img src="https://visitor-badge.glitch.me/badge?page_id=Etrama-visitor-badge" alt="visitor badge"/>
+<br> 
+-->
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/Etrama/count.svg" alt="" /></td>
+  </tr>
+</table>
 <br>
 
 <a href="https://github.com/Etrama/Etrama">
@@ -23,6 +31,9 @@ Here are some ideas to get you started:
 </a>
 
 <br>
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <br>
 
 🏡 [website][website] **|** 
