@@ -3,25 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etrama&label=Profile%20views&color=0e75b6&style=flat" alt="etrama" /> </p>
 
-<h3>
 ```python
-import json
-Hello
-``` 
-</h3>
+kaushik = {
+  interests             : ["Machine Learning", "Deep Learning", "Vim", "Gamifying and accelerating Learning"]
+  code                  : ["Python", "MATLAB", "VBA", "Java", "Javascript"]
+  skills                : ["Machine Learning", "Robotic Process Automation", "Shell Scripting", "Docker"]
+  ask_me_about          : ["Machine Learning", "Manga", "Anime"]
+  will_collab_on        : ["end-to-end ML projects"]
+  currently_learning    : ["Docker", "Vim", "K8s", "Vue"]
+}
+```
 
-- 🔭 I’m currently working on **Machine Learning, Vim, ERP Application Security, Data Security and Governance.**
-- 🌱 I’m currently learning **Vue, K8s, Docker.**
-
-- 👯 I’m looking to collaborate on **end-to-end Machine Learning projects.**
 
 - 👨‍💻 All of my projects are available on [Github.](https://etrama.github.io/)
 
-- 📝 I regularly write articles on [Medium.](https://medium.com/@kaushikmoudgalya)
+- 📝 I write articles on [Medium.](https://medium.com/@kaushikmoudgalya)
 
-- 💬 Ask me about **Machine Learning.**
-
-- 📫 How to reach me **kaushikmoudgalya@gmail.com**
+- 📫 Reach me **kaushikmoudgalya@gmail.com**
 
 - 📄 Know about my experiences -  [Resume Link](https://drive.google.com/file/d/1REyMhq1vYEv4NqttEwGnJ3V6_L3cKiIA/view?usp=sharing)
 
