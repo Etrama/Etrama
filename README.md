@@ -3,6 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etrama&label=Profile%20views&color=0e75b6&style=flat" alt="etrama" /> </p>
 
+<h3>
+```python
+import json
+Hello
+``` 
+</h3>
+
 - 🔭 I’m currently working on **Machine Learning, Vim, ERP Application Security, Data Security and Governance.**
 - 🌱 I’m currently learning **Vue, K8s, Docker.**
 
