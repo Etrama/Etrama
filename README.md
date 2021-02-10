@@ -36,7 +36,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/banana_leopard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="banana_leopard" height="30" width="40" style="color:LightSlateGrey;" /></a>
-<a href="https://linkedin.com/in/kaushik-gowrishankar-moudgalya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kaushik-gowrishankar-moudgalya" height="30" width="40" /></a>
-<a href="https://medium.com/kaushikmoudgalya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="kaushikmoudgalya" height="30" width="40" /></a>
+<a href="https://twitter.com/banana_leopard" target="blank"><img align="center" src="https://github.com/Etrama/Etrama/blob/main/twitter-32.png?raw=true" alt="banana_leopard" height="30" width="32" style="color:LightSlateGrey;" /></a>
+<a href="https://linkedin.com/in/kaushik-gowrishankar-moudgalya" target="blank"><img align="center" src="https://github.com/Etrama/Etrama/blob/main/linkedin-2-32.png?raw=true" alt="kaushik-gowrishankar-moudgalya" height="30" width="32" /></a>
 </p>
