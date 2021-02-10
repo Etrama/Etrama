@@ -11,17 +11,17 @@ kaushik = {
   ask_me_about          : ["Machine Learning", "Manga", "Anime"]
   will_collab_on        : ["end-to-end ML projects"]
   currently_learning    : ["Docker", "Vim", "K8s", "Vue"]
+  All of my projects are available on [Github.](https://etrama.github.io/)
 }
 ```
 
+👨‍💻 All of my projects are available on [Github.](https://etrama.github.io/)
 
-- 👨‍💻 All of my projects are available on [Github.](https://etrama.github.io/)
+📝 I write articles on [Medium.](https://medium.com/@kaushikmoudgalya)
 
-- 📝 I write articles on [Medium.](https://medium.com/@kaushikmoudgalya)
+📫 Reach me @ **kaushikmoudgalya@gmail.com**
 
-- 📫 Reach me **kaushikmoudgalya@gmail.com**
-
-- 📄 Know about my experiences -  [Resume Link](https://drive.google.com/file/d/1REyMhq1vYEv4NqttEwGnJ3V6_L3cKiIA/view?usp=sharing)
+📄 Know about my experiences -  [Resume Link](https://drive.google.com/file/d/1REyMhq1vYEv4NqttEwGnJ3V6_L3cKiIA/view?usp=sharing)
 
 <br>
 
