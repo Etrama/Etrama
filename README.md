@@ -11,7 +11,6 @@ kaushik = {
   ask_me_about          : ["Machine Learning", "Manga", "Anime"]
   will_collab_on        : ["end-to-end ML projects"]
   currently_learning    : ["Docker", "Vim", "K8s", "Vue"]
-  All of my projects are available on [Github.](https://etrama.github.io/)
 }
 ```
 
