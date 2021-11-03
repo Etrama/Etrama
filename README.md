@@ -21,7 +21,7 @@ kaushik = {
 
 📫 Reach me @ **kaushikmoudgalya@gmail.com**
 
-📄 Know about my experiences -  [Resume Link](https://drive.google.com/file/d/1REyMhq1vYEv4NqttEwGnJ3V6_L3cKiIA/view?usp=sharing)
+📄 Here's my resume if you'd like to take a look -  [Resume Link](https://drive.google.com/file/d/1REyMhq1vYEv4NqttEwGnJ3V6_L3cKiIA/view?usp=sharing)
 
 <br>
 
