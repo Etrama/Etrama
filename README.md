@@ -15,13 +15,13 @@ kaushik = {
 }
 ```
 
-👨‍💻 All of my projects are available on [Github.](https://etrama.github.io/)
+👨‍💻 Most of my projects are available on [Github.](https://etrama.github.io/)
 
 📝 I write articles on [Medium.](https://medium.com/@kaushikmoudgalya)
 
 📫 Reach me @ **kaushikmoudgalya@gmail.com**
 
-📄 Here's my resume if you'd like to take a look -  [Resume Link](https://drive.google.com/file/d/1REyMhq1vYEv4NqttEwGnJ3V6_L3cKiIA/view?usp=sharing)
+📄 Here's my resume if you'd like to take a look -  [Resume Link](https://drive.google.com/file/d/1n_N7mswSU0xGD2MxLI28FmJdkz84ZuZG/view?usp=sharing)
 
 <br>
 
