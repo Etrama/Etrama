@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaushik Moudgalya</h1>
-<h3 align="center">A passionate dilettante at Machine Learning</h3>
+<h3 align="center">A passionate dilettante researcher at Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etrama&label=Profile%20views&color=0e75b6&style=flat" alt="etrama" /> </p>
 
@@ -21,7 +21,7 @@ kaushik = {
 
 📫 Reach me @ **kaushikmoudgalya@gmail.com**
 
-📄 Here's my resume if you'd like to take a look -  [Resume Link](https://drive.google.com/file/d/1n_N7mswSU0xGD2MxLI28FmJdkz84ZuZG/view?usp=sharing)
+📄 Here's my resume if you'd like to take a look -  [Resume Link](https://drive.google.com/file/d/1-EI2Hyt-kW-96pwmKuTFYzBosbNwG9ZE/view?usp=share_link)
 
 <br>
 
