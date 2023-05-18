@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kaushik Moudgalya</h1>
-<h3 align="center">A passionate dilettante researcher at Machine Learning</h3>
+<h4 align="center">A soon to be Master's gradduate, specializing in Machine Learning</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etrama&label=Profile%20views&color=0e75b6&style=flat" alt="etrama" /> </p>
 
 ```python
 kaushik = {
-  interests             : ["Machine Learning", "Deep Learning", "Vim", "Gamifying and accelerating Learning"]
+  interests             : ["Code based LMs", "Arithmetic Reasoning with LLMs", "Machine Learning", "Deep Learning", "Vim", "Gamifying and accelerating Learning"]
   code                  : ["Python", "MATLAB", "VBA", "Java", "Javascript"]
-  skills                : ["Machine Learning", "Robotic Process Automation", "Shell Scripting", "Docker"]
+  skills                : ["Deep Learning", "NLP", "Shell Scripting", "Latex", "Machine Learning", "SQL", "HTML", "Git", "AWS", "GCP", "Robotic Process Automation", "Docker"]
   ask_me_about          : ["Machine Learning", "Manga", "Anime"]
   will_collab_on        : ["end-to-end ML projects"]
   currently_learning    : ["Docker", "Vim", "K8s", "Vue"]
@@ -21,7 +21,7 @@ kaushik = {
 
 📫 Reach me @ **kaushikmoudgalya@gmail.com**
 
-📄 Here's my resume if you'd like to take a look -  [Resume Link](https://drive.google.com/file/d/1-EI2Hyt-kW-96pwmKuTFYzBosbNwG9ZE/view?usp=share_link)
+📄 Here's my resume if you'd like to take a look -  [Resume Link](https://drive.google.com/file/d/1QrFsqzcjquXwsFLP0ir4hzcpKbpW6fai/view?usp=sharing)
 
 <br>
 
