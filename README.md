@@ -5,9 +5,11 @@
 
 ```python
 kaushik = {
-  interests             : ["Code based LMs", "Arithmetic Reasoning with LLMs", "Machine Learning", "Deep Learning", "Vim", "Gamifying and accelerating Learning"]
+  interests             : ["Code based LMs", "Arithmetic Reasoning with LLMs", "Machine Learning",
+                          "Deep Learning", "Vim", "Gamifying and accelerating Learning"]
   code                  : ["Python", "MATLAB", "VBA", "Java", "Javascript"]
-  skills                : ["Deep Learning", "NLP", "Shell Scripting", "Latex", "Machine Learning", "SQL", "HTML", "Git", "AWS", "GCP", "Robotic Process Automation", "Docker"]
+  skills                : ["Deep Learning", "NLP", "Shell Scripting", "Latex", "Machine Learning",
+                          "SQL", "HTML", "Git", "AWS", "GCP", "Robotic Process Automation", "Docker"]
   ask_me_about          : ["Machine Learning", "Manga", "Anime"]
   will_collab_on        : ["end-to-end ML projects"]
   currently_learning    : ["Docker", "Vim", "K8s", "Vue"]
