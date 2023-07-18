@@ -15,7 +15,7 @@ kaushik = {
   fun_fact              : ["I can speak 7 languages"]
 }
 ```
-[Website](https://etrama.github.io/) | [Resume](https://drive.google.com/file/d/1Pao1fxwIveSwyJ0Q7XTYfweq6JITQ3t5/view?usp=share_link) | [Medium](https://medium.com/@kaushikmoudgalya) | [LinkedIn](https://www.linkedin.com/in/kaushik-moudgalya/) | [Twitter](https://twitter.com/banana_leopard) | [Email](kaushikmoudgalya@gmail.com)
+[Website](https://etrama.github.io/) | [Resume](https://drive.google.com/file/d/1Pao1fxwIveSwyJ0Q7XTYfweq6JITQ3t5/view?usp=share_link) | [Medium](https://medium.com/@kaushikmoudgalya) | [LinkedIn](https://www.linkedin.com/in/kaushik-moudgalya/) | [Twitter](https://twitter.com/banana_leopard) | <a href = "mailto: kaushikmoudgalya@gmail.com">Email</a>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
