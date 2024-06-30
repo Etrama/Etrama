@@ -1,10 +1,12 @@
 <h1 align="center">Hi, I'm Kaushik Moudgalya 👋</h1>
 <h4 align="center">I am a Data Scientist. I like code, coding, and NLP related to code.</h4>
 
+I learn and play with transformers, Deep Learning math, LLMs, and Python. I write about these things as well, head on to my [Website](https://etrama.github.io/) or [Medium](https://medium.com/@kaushikmoudgalya) if you'd like to read what I've written. I also do traditional Data Science during my 9-5. I'm trying to learn more MLOPs nowadays but my one true love will always be code based models, whether they be LLMs or not.
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=etrama&label=Profile%20views&color=0e75b6&style=flat" alt="etrama" /> </p>  -->
 ---
 
-[Website](https://etrama.github.io/) | [Resume](https://drive.google.com/file/d/1Pao1fxwIveSwyJ0Q7XTYfweq6JITQ3t5/view?usp=share_link) | [Medium](https://medium.com/@kaushikmoudgalya) | [LinkedIn](https://www.linkedin.com/in/kaushik-moudgalya/) | [Twitter](https://twitter.com/banana_leopard) | <a href = "mailto: kaushikmoudgalya@gmail.com">Email</a>
+[Website](https://etrama.github.io/) | [Resume]([https://drive.google.com/file/d/1Pao1fxwIveSwyJ0Q7XTYfweq6JITQ3t5/view?usp=share_link](https://drive.google.com/file/d/1Pao1fxwIveSwyJ0Q7XTYfweq6JITQ3t5/view)) | [Medium](https://medium.com/@kaushikmoudgalya) | [LinkedIn](https://www.linkedin.com/in/kaushik-moudgalya/) | [Twitter](https://twitter.com/banana_leopard) | <a href = "mailto: kaushikmoudgalya@gmail.com">Email</a>
 <br>
 
 ---
