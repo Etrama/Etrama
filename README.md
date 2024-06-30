@@ -6,7 +6,7 @@ I learn and play with transformers, Deep Learning math, LLMs, and Python. I writ
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=etrama&label=Profile%20views&color=0e75b6&style=flat" alt="etrama" /> </p>  -->
 ---
 
-[Website](https://etrama.github.io/) | [Resume]([https://drive.google.com/file/d/1Pao1fxwIveSwyJ0Q7XTYfweq6JITQ3t5/view?usp=share_link](https://drive.google.com/file/d/1Pao1fxwIveSwyJ0Q7XTYfweq6JITQ3t5/view)) | [Medium](https://medium.com/@kaushikmoudgalya) | [LinkedIn](https://www.linkedin.com/in/kaushik-moudgalya/) | [Twitter](https://twitter.com/banana_leopard) | <a href = "mailto: kaushikmoudgalya@gmail.com">Email</a>
+[Website](https://etrama.github.io/) | [Resume](https://drive.google.com/file/d/1Pao1fxwIveSwyJ0Q7XTYfweq6JITQ3t5/view?usp=sharing) | [Medium](https://medium.com/@kaushikmoudgalya) | [LinkedIn](https://www.linkedin.com/in/kaushik-moudgalya/) | [Twitter](https://twitter.com/banana_leopard) | <a href = "mailto: kaushikmoudgalya@gmail.com">Email</a>
 <br>
 
 ---
