@@ -33,21 +33,22 @@ TASTY v2 is in progress. Things are getting interesting.
 ```python
 kaushik = {
   "title"         : ["Senior Machine Learning Engineer", "Senior Data Scientist"],
-  "work_languages": ["English", "French"],           # used daily — technical, sales, executive
+  "languages"     : {
+      "native"    : ["English", "Hindi", "Marathi†", "Tamil†"],  # † = native, lost touch
+      "fluent"    : ["French (C1)"],                              # daily technical + sales
+      "working"   : ["German (B1)", "Japanese (N5)"],
+  },
   "fun_fact"      : ["3 continents", "7 languages"],
-
   "ml_core"       : ["LLMs", "RAG", "Agentic AI", "Time Series", "Deep Learning", "NLP"],
   "frameworks"    : ["LangGraph", "LlamaIndex", "SmolAgents", "HuggingFace", "PyTorch", "scikit-learn"],
   "cloud"         : ["AWS ★★★", "Azure ★★", "GCP ★"],   # depth in that order
   "infra"         : ["Docker", "SQL", "Git", "Shell Scripting", "LaTeX"],
-
-  "industries"    : [
-      "Insurance & Reinsurance",    # European enterprise scale
-      "Energy & Power Systems",     # grid forecasting, sensor intelligence
-      "Government & Public Sector", # infrastructure, urban planning
-      "Education",                  # learning systems, assessment
-  ],
-
+  "industries"    : {
+      "Insurance & Reinsurance"    : "European enterprise scale",
+      "Energy & Power Systems"     : "Predictive Maintenance · Grid Forecasting · Sensor Intelligence",
+      "Government & Public Sector" : "Urban Planning Optimization · Data Infrastructure (collection, merging, publication, reporting)",
+      "Education"                  : "Learning Systems · Assessment",
+  },
   "ask_me_about"  : ["LLM systems", "Agentic AI", "Code-based models", "NLP", "Manga", "Anime"],
 }
 ```
