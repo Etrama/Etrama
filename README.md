@@ -1,49 +1,70 @@
 <h1 align="center">Hi, I'm Kaushik Moudgalya 👋</h1>
-<h4 align="center">I am a Data Scientist. I like code, coding, and NLP related to code.</h4>
+<h4 align="center">Senior Machine Learning Engineer &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; Production ML Systems</h4>
 
-I learn and play with transformers, Deep Learning math, LLMs, and Python. I write about these things as well, head on to my [Website](https://etrama.github.io/) or [Medium](https://medium.com/@kaushikmoudgalya) if you'd like to read what I've written. I also do traditional Data Science during my 9-5. I'm trying to learn more MLOPs nowadays but my one true love will always be code based models, whether they be LLMs or not.
+<p align="center">
+  <a href="https://etrama.github.io/">Website</a> &nbsp;·&nbsp;
+  <!-- <a href="https://drive.google.com/file/d/1Pao1fxwIveSwyJ0Q7XTYfweq6JITQ3t5/view?usp=sharing">Resume</a> &nbsp;·&nbsp; -->
+  <a href="https://medium.com/@kaushikmoudgalya">Medium</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kaushik-moudgalya/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://twitter.com/banana_leopard">Twitter</a> &nbsp;·&nbsp;
+  <a href="mailto:kaushikmoudgalya@gmail.com">Email</a>
+</p>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=etrama&label=Profile%20views&color=0e75b6&style=flat" alt="etrama" /> </p>  -->
 ---
 
-[Website](https://etrama.github.io/) | [Resume](https://drive.google.com/file/d/1Pao1fxwIveSwyJ0Q7XTYfweq6JITQ3t5/view?usp=sharing) | [Medium](https://medium.com/@kaushikmoudgalya) | [LinkedIn](https://www.linkedin.com/in/kaushik-moudgalya/) | [Twitter](https://twitter.com/banana_leopard) | <a href = "mailto: kaushikmoudgalya@gmail.com">Email</a>
-<br>
+I design and ship AI systems at the enterprise level — end-to-end ML pipelines, LLM applications, and agentic frameworks. I've worked across three continents (Asia → North America → Europe) and operate professionally in both English and French, from technical architecture to executive-level client engagement.
 
 ---
 
-Check out my recent work, [TASTY: A Transformer based Approach to Space and Time Complexity](https://arxiv.org/abs/2305.05379).
+### Research
 
-I am working on the next version of the paper above! Exciting things await!
+📄 &nbsp;[TASTY: A Transformer-Based Approach to Space and Time Complexity](https://arxiv.org/abs/2305.05379)
+
+TASTY v2 is in progress. Things are getting interesting.
+
+---
+
+### Currently
+
+> Exploring AI applications in education on the side. Something is quietly taking shape — more soon.
 
 ---
 
 ```python
 kaushik = {
-  interests             : ["Code based LLMs", "Arithmetic Reasoning with LLMs", "Gamifying and accelerating Learning"]
-  code                  : ["Python", "MATLAB", "VBA", "CSS?", "Java?", "Javascript?"] 
-  skills                : ["Deep Learning", "NLP", "Shell Scripting", "Latex", "Machine Learning"]
-  more_skills           : ["SQL", "HTML", "Git", "AWS", "GCP", "Robotic Process Automation", "Docker", "CSS?"]
-  ask_me_about          : ["Transformers", "Machine Learning", "Manga", "Anime"]
-  currently_learning    : ["Docker", "Vim", "K8s", "Vue"]
-  fun_fact              : ["I can speak 7 languages"]
+  "title"         : ["Senior Machine Learning Engineer", "Senior Data Scientist"],
+  "work_languages": ["English", "French"],           # used daily — technical, sales, executive
+  "fun_fact"      : ["3 continents", "7 languages"],
+
+  "ml_core"       : ["LLMs", "RAG", "Agentic AI", "Time Series", "Deep Learning", "NLP"],
+  "frameworks"    : ["LangGraph", "LlamaIndex", "SmolAgents", "HuggingFace", "PyTorch", "scikit-learn"],
+  "cloud"         : ["AWS ★★★", "Azure ★★", "GCP ★"],   # depth in that order
+  "infra"         : ["Docker", "SQL", "Git", "Shell Scripting", "LaTeX"],
+
+  "industries"    : [
+      "Insurance & Reinsurance",    # European enterprise scale
+      "Energy & Power Systems",     # grid forecasting, sensor intelligence
+      "Government & Public Sector", # infrastructure, urban planning
+      "Education",                  # learning systems, assessment
+  ],
+
+  "ask_me_about"  : ["LLM systems", "Agentic AI", "Code-based models", "NLP", "Manga", "Anime"],
 }
-# ? marks denote acquaintance and non-expertise
 ```
-<!-- <h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=etrama&show_icons=true&locale=en&layout=compact&theme=react" alt="etrama" /></p> -->
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=etrama&show_icons=true&locale=en&theme=react" alt="etrama" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=etrama&theme=react" alt="etrama" /></p> 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/banana_leopard" target="blank"><img align="center" src="https://github.com/Etrama/Etrama/blob/main/twitter-32.png?raw=true" alt="banana_leopard" height="30" width="32" style="color:LightSlateGrey;" /></a>
-<a href="https://linkedin.com/in/kaushik-gowrishankar-moudgalya" target="blank"><img align="center" src="https://github.com/Etrama/Etrama/blob/main/linkedin-2-32.png?raw=true" alt="kaushik-gowrishankar-moudgalya" height="30" width="32" /></a>
-</p>
+### 🪦 The Museum Wing *(deprecated, but not forgotten)*
 
+```python
+past_lives = {
+  "rpa"      : ["UiPath", "Automation Anywhere"],  # ~2018–2020, RIP
+  "reporting": ["VBA", "MATLAB"],                  # survived longer than expected
+  "crimes"   : ["Java?", "CSS?"],                  # the ? was always load-bearing
+}
+# some things are better left in the past
+```
 
-Attribution:
-https://github.com/rednafi/rednafi/blob/master/README.md
-https://github.com/anmol098/anmol098/blob/master/README.md
-https://github.com/abhisheknaiidu/awesome-github-profile-readme
---->
+---
+
+*3 continents &nbsp;·&nbsp; 7 languages &nbsp;·&nbsp; 1 paper with a sequel*
