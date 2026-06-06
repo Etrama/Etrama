@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/kaushik-moudgalya/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://twitter.com/banana_leopard">Twitter</a> &nbsp;·&nbsp;
   <a href="mailto:kaushikmoudgalya@gmail.com">Email</a>
+  <a href="https://drive.google.com/file/d/1USYSuC55o40KHap_XY9CYIEtgWYFUROD/view?usp=drive_link">Resume</a>
 </p>
 
 ---
